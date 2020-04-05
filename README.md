@@ -9,6 +9,6 @@ Na parte de Controle de Estoque possui uma tabela com o produto, quantidade que 
 Na parte de Vendas possui gráficos com a totalização das vendas de um determinado mês, de todas as semanas, divisão por região. <br>
 Na pate de Vendas em cada semanas possui uma tabela com o Id da Venda, cada cliente possui um Id, a data da venda, o produto, quantidade que vendeu, parte de entregas, se a entrega foi na loja ou em alguma Zona (Sul, Oeste e Norte), o valor da entrega e o valor total da venda. Além disso, nessa parte, o usuário poderá inserir um produto (para um cliente já existente) ou uma nova venda (se for um novo cliente) ou excluir um registro. <br>
 Na parte de Análise da Semana terá Tabelas Dinâmicas para poder analisar melhor dos dados. Por exemplo, separação por Zona e quanto vendeu para cada uma das Zonas. <br>
-Na parte de Resultados teremos uma totalização final do gerenciamento do Mercado <br>
+Na parte de Resultados teremos uma totalização final do gerenciamento do Mercado. <br>
 
 
