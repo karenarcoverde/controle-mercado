@@ -1,5 +1,5 @@
 # controle-mercado
-Projeto Excel
+Projeto Excel (versão 2019)
 <br>
 <br>
 Planilha utilizando Microsoft Excel para o controle de um mercado, estruturada em tabelas, possuindo um Menu com as seguintes funções: Despesas, Compras de Mercadorias, Investimentos, Controle de Estoque, Vendas (separadas por Semanas) e Resultados. <br> <br>
