@@ -12,7 +12,7 @@ Planilha utilizando Microsoft Excel com objetivo de controle de um mercado, estr
 ## Observação: <br>
 É necessário habilitar a opção de Macros pois nessa planilha possui botões, tais como: Ir para o Menu, Vendas, Excluir Registro, Nova Venda (insere com Id anterior + 1 e com a data atual), Inserir Produto (caso seja a mesma pessoa - mesmo Id, já insere com o mesmo Id e a data atual), Ir para Semanas (em seguida escolha a semana desejada), Inserir Compra (já insere com a data atual), Resultados, Despesas, Compras Mercadorias e Controle de Estoque. <br> <br>
 
-## Como usar: <br>
+## Descrição sobre cada aba: <br>
 Na parte de Despesas possui uma tabela estruturada com despesa, data, algumas observações e valores. <br>
 Na parte de Compra de Mercadorias possui uma tabela onde poderá registrar a compra de mercadorias com o fornecedor, data, o tipo de mercadoria, quantidade comprada. <br>
 Na parte de Controle de Estoque possui uma tabela com o produto, quantidade que tinha no início do mês, quantidade que comprou e vendeu, quantidade atual. Além disso, existe uma sinalização mostrando se precisa prestar atenção que está acabando o estoque, se precisa comprar  ou se está OK. <br>
