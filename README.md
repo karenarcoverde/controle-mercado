@@ -5,6 +5,7 @@
 
 ## Versão: <br>
 Microsoft Excel 2019 <br>
+Este projeto é compatível com Excel 2010 e posteriores. 
 
 ## Objetivo: <br>
 Planilha utilizando Microsoft Excel com objetivo de controle de um mercado, estruturada em tabelas, possuindo um Menu com as seguintes funções: Despesas, Compras de Mercadorias, Investimentos, Controle de Estoque, Vendas (separadas por Semanas) e Resultados (o usuário pode clicar em cada opção do Menu para ir para a aba desejada). <br> <br>
