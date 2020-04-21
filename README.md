@@ -9,8 +9,9 @@ Microsoft Excel 2019 <br>
 ## Objetivo: <br>
 Planilha utilizando Microsoft Excel com objetivo de controle de um mercado, estruturada em tabelas, possuindo um Menu com as seguintes funções: Despesas, Compras de Mercadorias, Investimentos, Controle de Estoque, Vendas (separadas por Semanas) e Resultados (o usuário pode clicar em cada opção do Menu para ir para a aba desejada). <br> <br>
 
-## Observação: <br>
-É necessário habilitar a opção de Macros pois nessa planilha possui botões, tais como: Ir para o Menu, Vendas, Excluir Registro, Nova Venda (insere com Id anterior + 1 e com a data atual), Inserir Produto (caso seja a mesma pessoa - mesmo Id, já insere com o mesmo Id e a data atual), Ir para Semanas (em seguida escolha a semana desejada), Inserir Compra (já insere com a data atual), Resultados, Despesas, Compras Mercadorias e Controle de Estoque. <br> <br>
+## Avisos Importantes: <br>
+É necessário habilitar a opção de Macros pois nessa planilha possui botões, tais como: Excluir Registro, Nova Venda (insere com Id anterior + 1 e com a data atual), Inserir Produto (caso seja a mesma pessoa - mesmo Id, já insere com o mesmo Id e a data atual), Ir para Semanas (em seguida escolha a semana desejada), Inserir Compra (já insere com a data atual). <br> 
+Clique no "Aviso de Segurança" no canto superior esquerdo e em "Habilitar Conteúdo" para habilitar as Macros. <br> <br>
 
 ## Descrição sobre cada aba da planilha: <br>
 Na parte de Despesas possui uma tabela estruturada com despesa, data, algumas observações e valores. <br>
